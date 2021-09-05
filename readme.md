@@ -4,7 +4,7 @@
 
 ### R10.0
 
-> This Device Tree is based on [mauronofrio](https://github.com/mauronofrio)'s instantnoodle(Oneplus 8) TWRP device tree and https://github.com/sjllls's Griffin(Xperia 1) TWRP device tree. I am sincerely sorry for missing the commits history. So I wanna write this credit list 
+> This Device Tree is based on [mauronofrio](https://github.com/mauronofrio)'s instantnoodle(Oneplus 8) TWRP device tree and  [sjll](https://github.com/sjllls)'s Griffin(Xperia 1) TWRP device tree. I am sincerely sorry for missing the commits history. So I wanna write this credit list 
 >
 > To Thank those kinda bro who help me to build it and fix it !
 
